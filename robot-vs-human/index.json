@@ -1,0 +1,55 @@
+<style id="page-laptop.css" type="text/css" data-type="css" data-size="laptop" data-content="page"></style><style id="page-tablet.css" type="text/css" data-type="css" data-size="tablet" data-content="page">@media screen and (min-width:641px) and (max-width:1024px) { /* Tablet */ }</style><style id="page-mobile.css" type="text/css" data-type="css" data-size="mobile" data-content="page">@media screen and (max-width:640px) { /* Mobile */ }</style><grid-body id="grid-body"><article>  
+    <div data-type="post-meta">
+        <h1 data-type="post-title"> Robots vs Humans: A Technological Evolution </h1>
+        <p data-type="post-date">Publié le : 12 octobre 2023 </p>
+    </div>   
+    <div data-type="post-cover"><img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-i2HB3pjBIxbq64xGvY1LEaeE/user-vfW3XnzFFs3BzFZweZZ6RIi9/img-4Ri29ZLoSpVILN91ITVgSFoO.png?st=2024-10-22T17%3A13%3A49Z&amp;se=2024-10-22T19%3A13%3A49Z&amp;sp=r&amp;sv=2024-08-04&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-10-21T23%3A56%3A05Z&amp;ske=2024-10-22T23%3A56%3A05Z&amp;sks=b&amp;skv=2024-08-04&amp;sig=pxnjSNBx/0w7K5Eu37mrQHqKc4RltvtvIz6GkmYibb4%3D" data-type="image-fg" loading="lazy"></div>
+    <div data-type="post-body">
+        
+        <div data-type="content">
+            <h2>Sommaire</h2>
+            <ol>
+                <li>Introduction</li>
+                <li>Historique des Robots</li>
+                <li>Robots dans la société contemporaine</li>
+                <li>Impact sur l'emploi</li>
+                <li>Éthique et implications futures</li>
+            </ol>
+        </div>
+
+        <div data-type="content">
+            <!-- Ajoute chaque Tematique du "Sommaire individualment" -->
+        </div>
+        
+        <div data-type="content">
+            <h3>Introduction</h3>
+            <p>La confrontation entre robots et humains est un sujet fascinant qui a captivé l'imaginaire collectif depuis des décennies. Avec l'avènement de l'intelligence artificielle, cette confrontation est plus pertinente que jamais.</p>
+        </div>
+
+        <div data-type="content">
+            <h3>Historique des Robots</h3>
+            <p>L'origine des robots remonte à l'Antiquité, mais c'est au XXe siècle que la robotique a véritablement pris son essor avec l'invention de machines capables de réaliser des tâches automatisées.</p>
+        </div>
+
+        <div data-type="content">
+            <h3>Robots dans la société contemporaine</h3>
+            <p>Aujourd'hui, les robots sont omniprésents dans des secteurs aussi divers que la fabrication, la médecine, et même dans nos foyers sous forme d'assistants personnels.</p>
+        </div>
+
+        <div data-type="content">
+            <h3>Impact sur l'emploi</h3>
+            <p>La montée en puissance des robots suscite des débats sur leur impact potentiel sur l’emploi. Certains prévoient la création de nouveaux métiers, tandis que d'autres redoutent des pertes d'emploi importantes.</p>
+        </div>
+
+        <div data-type="content">
+            <h3>Éthique et implications futures</h3>
+            <p>L'intégration croissante des robots suscite des questions éthiques majeures, notamment en matière de responsabilité, de confidentialité et de sécurité.</p>
+        </div>
+
+        <div data-type="content">
+            <h3>Résumé</h3>
+            <p>Le débat "robots vs humains" est complexe, englobant des progrès technologiques, des préoccupations économiques et des considérations éthiques. Les robots représentent une révolution en cours, et leur impact sur la société continuera d'évoluer.</p>
+        </div>
+        
+    </div>
+</article></grid-body><script id="page-global.js" type="text/javascript" data-type="js"></script>
